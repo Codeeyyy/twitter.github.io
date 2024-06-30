@@ -1,0 +1,14 @@
+{
+  "name": "twitterclone",
+  "version": "1.0.0",
+  "description": "Its a twitter clone (Not real fan made)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
